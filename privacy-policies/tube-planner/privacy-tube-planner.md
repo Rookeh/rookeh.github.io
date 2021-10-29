@@ -1,6 +1,6 @@
 # "Tube Planner" Privacy Policy
 
-Rookeh built Tube Planner (hereafter referred to as the "app") in 2011 as a Free app, and it was retired around the same time and removed from distribution. This app was provided by Rookeh at no cost and was intended for use as-is.
+Tube Planner (hereafter referred to as the "app") was built in 2011 as a Free app, and it was retired around the same time and removed from distribution. This app was provided at no cost and was intended for use as-is.
 
 This app is NO LONGER MAINTAINED and is NOT currently offered for download or distribution, either directly or via any service (including but not limited to the Google Play store).
 
