@@ -16,7 +16,7 @@ And if it did collect any data, I have nowhere to store it. No server, no databa
 
 Also, the app no longer exists on the Play Store, and hasn't for over a decade, so there's that.
 
-### What if I enjoy reading long documents and/or legalese?**
+### What if I enjoy reading long documents and/or legalese?
 
 Then please continue reading. I didn't ~~plagiarize~~ write this document for fun, you know.
 
