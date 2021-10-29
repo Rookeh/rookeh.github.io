@@ -6,7 +6,7 @@ This app is NO LONGER MAINTAINED and is NOT currently offered for download or di
 
 This page is used for reference to inform visitors who may have used the application either in the past (or users who still have installations of the app to this day), of my policies in regard to the collection, use, and disclosure of Personal Information - as required by Google Play.
 
-### What's the TL;DR?**
+### What's the TL;DR?
 
 First: Congratulations on finding this page! You are probably the last active user of this app. I'm sorry. Now, to business.
 
