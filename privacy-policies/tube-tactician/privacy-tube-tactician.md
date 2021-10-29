@@ -1,4 +1,4 @@
-# Privacy Policy
+# "Tube Tactician" Privacy Policy
 
 Rookeh built Tube Tactician (hereafter referred to as the "app") in 2011 as a Free app, and it was retired in 2012 and removed from distribution at that time. This app was provided by Rookeh at no cost and was intended for use as-is.
 
