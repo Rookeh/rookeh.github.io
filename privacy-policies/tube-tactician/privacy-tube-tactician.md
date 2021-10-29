@@ -14,7 +14,7 @@ I don't transmit or store personal data from this app, period. I physically can'
 
 Also, the app no longer exists on the Play Store, and hasn't for nearly a decade, so there's that.
 
-### What if I enjoy reading long documents and/or legalese?**
+### What if I enjoy reading long documents and/or legalese?
 
 Then please continue reading. I didn't ~~plagiarize~~ write this document for fun, you know.
 
