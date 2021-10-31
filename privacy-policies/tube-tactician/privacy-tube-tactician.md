@@ -44,7 +44,7 @@ Whenever the application was used, and specifically in the case of an error occu
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This app does not use cookies explicitly. However, the dependencies of the app (including but not limited to: third party libraries APIs) may require the use of cookies in order to collect information and improve their services.
+This app does not use cookies explicitly. However, the dependencies of the app (including but not limited to: third party libraries, external websites and/or APIs) may require the use of cookies in order to collect information and improve their services.
 
 ## Security
 
