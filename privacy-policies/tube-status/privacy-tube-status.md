@@ -41,7 +41,7 @@ Whenever the application was used, and specifically in the case of an error occu
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This app does not use cookies explicitly. However, the dependencies of the app (including but not limited to: third party libraries and APIs) may require the use of cookies in order to collect information and improve their services.
+This app does not use cookies explicitly. However, the dependencies of the app (including but not limited to: third party libraries, external websites and/or APIs) may require the use of cookies in order to collect information and improve their services.
 
 ## Links to Other Sites
 
@@ -55,7 +55,7 @@ The app does not directly address anyone under the age of 13. The app does not c
 
 In the extremely unlikely event I ever update this Privacy Policy, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-10-29, although the behaviour outlined above has not changed since the time of last publication of the app.
+This policy is effective as of 2021-10-31, although the behaviour outlined above has not changed since the time of last publication of the app.
 
 ## Contact Us
 
