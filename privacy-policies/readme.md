@@ -14,7 +14,7 @@ A newer version of the app, rebuilt from scratch, did the same thing but added j
 
 It could find the nearest station to start your journey from your location, and also added a map view which included a locally rendered overlay that showed the locations of each station on your route, along with colour coded lines highlighting which Tube, DLR or Overground line you'd need to take, and your current location for reference.
 
-It also took line status into account; for example, if one line had minor or severe delays, it added weight to that line's edges in the graph to discourage routing via the affected line where possible. If the line was suspended then those edges had infinite weighting against them, effectively removing them from the graph.
+It also took line status, if available, into account; for example, if one line had minor or severe delays, it added weight to that line's edges in the graph to discourage routing via the affected line where possible. If the line was suspended then those edges had infinite weighting against them, effectively removing them from the graph.
 
 These apps were one of my earlier pet development projects and, suffice to say, not particularly good. But, they did just about function (at the time).
 
